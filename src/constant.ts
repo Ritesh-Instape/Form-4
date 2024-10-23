@@ -1,0 +1,26 @@
+export type formdataAll = {
+  empcode: string;
+  firstname: string;
+  middlename: string;
+  lastname: string;
+  email: string;
+  fathername: string;
+  mobilenumber: string;
+  dob: Date | null;
+  designation: string;
+  dcode: string;
+  doj: Date | null;
+  dol: Date | null;
+  salary: string;
+  gender: string;
+  bno: string;
+  ifsc: string;
+  bname: string;
+  ocity: string;
+  ostate: string;
+  oaddress1: string;
+  oaddress2: string;
+  oaddress3: string;
+  pincode: string;
+  estatus: string;
+};

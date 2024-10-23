@@ -1,0 +1,56 @@
+@import url("https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300..800;1,300..800&display=swap");
+
+.requiredIs {
+  color: red;
+}
+
+.formhead {
+  font-family: "Open Sans", sans-serif;
+  font-size: 15px;
+  margin-bottom: 16px;
+}
+
+.formdis {
+  margin-top: 10px;
+}
+
+.formTypehead {
+  font-family: "Open Sans", sans-serif;
+  font-size: 17px;
+  margin-bottom: 16px;
+  font-weight: 800;
+  margin-top: 24px;
+}
+
+.errorIs{
+  color: red;
+  font-family: "Open Sans", sans-serif;
+  font-size: 13px;
+  margin-top: 3px;
+  margin-bottom: 4px;
+  margin-left: 4px;
+  font-weight: 500;
+  position: absolute;
+
+}
+
+.disIs{
+  margin-top: 24px;
+}
+
+.disIs2{
+  margin-top: 24px;
+}
+
+
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+
+.budiv{
+  display: flex;
+  justify-content: center;
+  margin-top: 20px;
+}
